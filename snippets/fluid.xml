@@ -13,7 +13,7 @@
   <project path="manifest" name="manifest" remote="fluid" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="fluid" />
   <project path="packages/apps/LineageParts" name="packages_apps_LineageParts" remote="fluid" />
-  <project path="vendor/lineage" name="vendor_lineage" remote="fluid" />
+  <project path="vendor/lineage" name="vendor_fluid" remote="fluid" />
   <project path="frameworks/base" name="frameworks_base" remote="fluid" />
   <project path="build/make" name="build" remote="fluid">
     <copyfile src="core/root.mk" dest="Makefile" />
