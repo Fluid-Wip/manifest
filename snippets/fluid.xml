@@ -33,4 +33,5 @@
   </project>
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="fluid" />
   <project path="vendor/fextras" name="vendor_fextras" remote="fluid" />
+  <project path="packages/apps/FluidCustomization" name="packages_apps_FluidCustomization" remote="fluid" />
 </manifest>
